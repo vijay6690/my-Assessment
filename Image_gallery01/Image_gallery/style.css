@@ -1,0 +1,15 @@
+.gallery{
+    padding: 80px 0;
+}
+img{
+    max-width: 100%;
+}
+.gallery img{
+    background-color: rgb(217, 208, 208);
+    padding: 15px;
+    width: 100%;
+    cursor: pointer;
+}
+#exampleModal .modal-img{
+    width: 100%;
+}
